@@ -1,0 +1,7 @@
+# robots.txt pour CasinosEnLigneFrance
+# Règles pour les robots d’indexation
+
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/CasinosEnLigneFrance/sitemap.xml
